@@ -29,4 +29,4 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/MatheusAnsel/EcanBuy.git](https://github.com/MatheusAnsel/EcanBuy.git)
+   git clone https://github.com/MatheusAnsel/EcanBuy.git
