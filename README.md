@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# EcanBuy 🛒
 
-## Getting Started
+Bem-vindo ao EcanBuy! Este é um projeto de marketplace (e-commerce) desenvolvido para consolidar meus conhecimentos em desenvolvimento web, utilizando tecnologias modernas e escaláveis.
 
-First, run the development server:
+##  Sobre o Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O EcanBuy tem como objetivo oferecer uma experiência fluida de visualização de produtos e gerenciamento de carrinho. O foco principal deste projeto foi a aplicação de conceitos de rotas dinâmicas, gerenciamento de estado e arquitetura de componentes utilizando Next.js.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##  Tecnologias Utilizadas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este projeto foi construído com as seguintes tecnologias:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Framework:** Next.js (App Router)
+- **Linguagem:** TypeScript
+- **Estilização:** CSS Modules
+- **Gerenciamento de Pacotes:** NPM
+- **Versionamento:** Git & GitHub
 
-## Learn More
+##  Funcionalidades Principais
 
-To learn more about Next.js, take a look at the following resources:
+- [ ] **Listagem de Produtos:** Catálogo dinâmico com visualização detalhada.
+- [ ] **Rota Dinâmica:** Sistema de navegação para detalhes individuais de cada produto.
+- [ ] **Carrinho de Compras:** Lógica de adição e remoção de itens.
+- [ ] **Interface Responsiva:** Design adaptável para diferentes dispositivos.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+##  Como Rodar o Projeto
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Para rodar o projeto localmente, siga os passos abaixo:
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/MatheusAnsel/EcanBuy.git](https://github.com/MatheusAnsel/EcanBuy.git)
